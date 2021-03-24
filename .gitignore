@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+Temp/
+Library/
 
 Inventory Management/[Ll]ibrary/
 Inventory Management/[Tt]emp/
@@ -58,3 +60,4 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+herding memos/herdinmemos_builds
